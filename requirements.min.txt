@@ -2,7 +2,7 @@
 # This is the bare minimum requirements.txt for running Modmail.
 # To install requirements.txt run: pip install -r requirements.min.txt
 
-aiohttp==3.5.4
+aiohttp==3.7.4
 async-timeout==3.0.1
 attrs==19.3.0
 chardet==3.0.4
